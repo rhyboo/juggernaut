@@ -15,7 +15,7 @@
 , "main" : "./index"
 , "bin" : { "juggernaut" : "./server.js" }
 , "dependencies" :
-  { "socket.io" : "=0.8.7"
+  { "socket.io" : "=0.9.6"
   , "redis" : "~0.7.1"
   , "node-static" : "~0.5.9"
   , "optimist": "~0.2.3"
